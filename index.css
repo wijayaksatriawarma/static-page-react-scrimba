@@ -9,6 +9,12 @@ body {
     color: white;
 }
 
+#root{
+    margin: 50px auto;
+    width: 600px;
+    border: 1px solid white;
+}
+
 header {
     height: 90px;
     background-color: #21222A;
